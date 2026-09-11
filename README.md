@@ -5,7 +5,7 @@
 </div>
 
 ## About me :mortar_board:
-**Systems Engineering student with a strong passion for programming. Always eager to learn new languages and technologies, and constantly looking for opportunities to grow as a developer.** 🧠
+**Systems Engineering student with a strong passion for programming. Always eager to learn new languages and technologies, and constantly looking for opportunities to grow as a developer. Open to new opportunities to kickstart my career as a software developer.** 🧠
 
 ## What I know :computer:
 - **Competitive Programming**
